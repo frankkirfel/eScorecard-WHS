@@ -169,7 +169,7 @@ select[id^='e8d_'] {
 
 button.e8d.button {
 	padding: 0.5rem 1rem;
-	margin: 2rem 0;
+	margin: 1rem 0;
 	box-shadow: -1px -1px 2px #e0e0e0, 
 				1px 1px 2px #808080;
 }
@@ -331,10 +331,6 @@ div.e8d.note {
 	
 	[id^='e8d_tbl'], td[class^='e8d_field'], th[id^='e8d_th_r'], td#e8d_correlation, input.e8d_score {
 		font-size: 1.1rem;
-	}
-	
-	button#e8d_btnPrint {
-		display: none;
 	}
 }
 
