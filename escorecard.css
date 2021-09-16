@@ -279,7 +279,8 @@ div#e8d_container {
 	*/
 	
 	box-sizing: border-box;
-	margin: 40px auto;
+	margin: 0 auto;
+	padding: 20px;
 	max-width: 940px;
 }
 
