@@ -360,6 +360,10 @@ div.e8d.note {
 	[id^='e8d_tbl'], td[class^='e8d_field'], th[id^='e8d_th_r'], td#e8d_correlation, input.e8d_score {
 		font-size: 1.1rem;
 	}
+
+	li.e8d {
+		line-height: 1.5;
+	}
 }
 
 @media screen and (max-width: 889px) {
