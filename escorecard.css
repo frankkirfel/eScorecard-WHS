@@ -240,9 +240,9 @@ kbd, kbd[id^='e8d_'] {
 				1px 1px 1px #ccc;
 }
 
-small.e8d,
-.small {
+small.e8d, .small {
 	font-size: 1.1rem;
+	line-height: 1.5rem;
 }
 
 b {
