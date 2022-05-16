@@ -230,18 +230,13 @@ $(document).ready(function() {
 	
 	function handle_down(e) {
 		
-		if (e.touches !== undefined) {
-			zoom_svg(e, e.touches.length);
+		document.body.style.touchAction = "none";
+		document.body.style.cursor = "move";
+		dragable = true;
+		if (svgele) {
+			svgelem_pos_start = get_svg_pos();
 		}
-		else {
-			document.body.style.touchAction = "none";
-			document.body.style.cursor = "move";
-			dragable = true;
-			if (svgele) {
-				svgelem_pos_start = get_svg_pos();
-			}
-			pointer_pos_start_abs = {x: get_abs_pointer_pos(e).x, y: get_abs_pointer_pos(e).y};
-		}
+		pointer_pos_start_abs = {x: get_abs_pointer_pos(e).x, y: get_abs_pointer_pos(e).y};
 	} // handle_down
 	
 	function handle_move(e) {
