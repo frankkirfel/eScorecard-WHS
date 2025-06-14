@@ -2,7 +2,7 @@
 	{
 		"name": "Golfclub Wolfsburg e. V.",
 		"shortname": "Wolfsburg, GC",
-		"clubnumber": 3364,
+		"clubnumber": "3364",
 		"courses": [
 			{
 				"name": "Platz 1-18",
@@ -2688,7 +2688,7 @@
 	{
 		"name": "GC Bad Saarow GmbH",
 		"shortname": "Saarow, GC Bad",
-		"clubnumber": 1133,
+		"clubnumber": "1133",
 		"courses": [
 			{
 				"name": "FALDO Course Berlin",
@@ -5869,7 +5869,7 @@
 	{
 		"name": "GC Hardenberg e. V.",
 		"shortname": "Hardenberg, GC",
-		"clubnumber": 3316,
+		"clubnumber": "3316",
 		"courses": [
 			{
 				"name": "Niedersachsen Course",
@@ -6946,7 +6946,7 @@
 	{
 		"name": "GC Isernhagen e. V.",
 		"shortname": "Isernhagen, GC",
-		"clubnumber": 3318,
+		"clubnumber": "3318",
 		"courses": [
 			{
 				"name": "Platz 1-18",
@@ -7712,7 +7712,7 @@
 	{
 		"name": "GP Hainhaus GmbH",
 		"shortname": "Hainhaus, GP",
-		"clubnumber": 3344,
+		"clubnumber": "3344",
 		"courses": [
 			{
 				"name": "Ost-Nord",
@@ -9933,8 +9933,9 @@
 	{
 		"name": "GC Rittergut Hedwigsburg e. V.",
 		"shortname": "Hedwigsburg, GC",
-		"clubnumber": 3355,
-		"courses": [			{
+		"clubnumber": "3355",
+		"courses": [
+			{
 				"name": "Platz AB (1-18)",
 				"gender": [
 					{
@@ -10698,7 +10699,7 @@
 	{
 		"name": "Green Eagle Golf Courses",
 		"shortname": "Green Eagle ,GC",
-		"clubnumber": 3373,
+		"clubnumber": "3373",
 		"courses": [
 			{
 				"name": "Porsche Nord Course",
@@ -11052,7 +11053,8 @@
 										"index": 10
 									}
 								]
-							}						]
+							}
+						]
 					},
 					{
 						"tees": [
@@ -11366,7 +11368,8 @@
 										"index": 7
 									}
 								]
-							}						]
+							}
+						]
 					},
 					{
 						"tees": [
@@ -11626,7 +11629,8 @@
 										"index": 10
 									}
 								]
-							}						]
+							}
+						]
 					},
 					{
 						"tees": [
@@ -14378,7 +14382,7 @@
 	{
 		"name": "GC Taunus Weilrod e. V.",
 		"shortname": "Weilrod, GC Taunus",
-		"clubnumber": 6618,
+		"clubnumber": "6618",
 		"courses": [
 			{
 				"name": "Platz 1-18",
@@ -15624,7 +15628,7 @@
 	{
 		"name": "GC Bad Liebenzell e. V.",
 		"shortname": "Liebenzell, GC Bad",
-		"clubnumber": 7706,
+		"clubnumber": "7706",
 		"courses": [
 			{
 				"name": "Platz 1-18",
@@ -16350,25 +16354,25 @@
 										"hole": 1,
 										"length": 383,
 										"par": 4,
-										"index": 5
+										"index": 3
 									},
 									{
 										"hole": 2,
 										"length": 360,
 										"par": 4,
-										"index": 7
+										"index": 4
 									},
 									{
 										"hole": 3,
 										"length": 316,
 										"par": 4,
-										"index": 13
+										"index": 7
 									},
 									{
 										"hole": 4,
 										"length": 444,
 										"par": 5,
-										"index": 15
+										"index": 8
 									},
 									{
 										"hole": 5,
@@ -16380,25 +16384,25 @@
 										"hole": 6,
 										"length": 182,
 										"par": 3,
-										"index": 17
+										"index": 9
 									},
 									{
 										"hole": 7,
 										"length": 330,
 										"par": 4,
-										"index": 9
+										"index": 5
 									},
 									{
 										"hole": 8,
 										"length": 179,
 										"par": 3,
-										"index": 11
+										"index": 6
 									},
 									{
 										"hole": 9,
 										"length": 507,
 										"par": 5,
-										"index": 3
+										"index": 2
 									}
 								]
 							},
@@ -16412,25 +16416,25 @@
 										"hole": 1,
 										"length": 376,
 										"par": 4,
-										"index": 5
+										"index": 3
 									},
 									{
 										"hole": 2,
 										"length": 352,
 										"par": 4,
-										"index": 7
+										"index": 4
 									},
 									{
 										"hole": 3,
 										"length": 287,
 										"par": 4,
-										"index": 13
+										"index": 7
 									},
 									{
 										"hole": 4,
 										"length": 431,
 										"par": 5,
-										"index": 15
+										"index": 8
 									},
 									{
 										"hole": 5,
@@ -16442,25 +16446,25 @@
 										"hole": 6,
 										"length": 181,
 										"par": 3,
-										"index": 17
+										"index": 9
 									},
 									{
 										"hole": 7,
 										"length": 323,
 										"par": 4,
-										"index": 9
+										"index": 5
 									},
 									{
 										"hole": 8,
 										"length": 161,
 										"par": 3,
-										"index": 11
+										"index": 6
 									},
 									{
 										"hole": 9,
 										"length": 478,
 										"par": 5,
-										"index": 3
+										"index": 2
 									}
 								]
 							},
@@ -16474,25 +16478,25 @@
 										"hole": 1,
 										"length": 345,
 										"par": 4,
-										"index": 5
+										"index": 3
 									},
 									{
 										"hole": 2,
 										"length": 329,
 										"par": 4,
-										"index": 7
+										"index": 4
 									},
 									{
 										"hole": 3,
 										"length": 287,
 										"par": 4,
-										"index": 13
+										"index": 7
 									},
 									{
 										"hole": 4,
 										"length": 406,
 										"par": 4,
-										"index": 15
+										"index": 8
 									},
 									{
 										"hole": 5,
@@ -16504,25 +16508,25 @@
 										"hole": 6,
 										"length": 155,
 										"par": 3,
-										"index": 17
+										"index": 9
 									},
 									{
 										"hole": 7,
 										"length": 305,
 										"par": 4,
-										"index": 9
+										"index": 5
 									},
 									{
 										"hole": 8,
 										"length": 129,
 										"par": 3,
-										"index": 11
+										"index": 6
 									},
 									{
 										"hole": 9,
 										"length": 471,
 										"par": 5,
-										"index": 3
+										"index": 2
 									}
 								]
 							},
@@ -16536,25 +16540,25 @@
 										"hole": 1,
 										"length": 332,
 										"par": 4,
-										"index": 5
+										"index": 3
 									},
 									{
 										"hole": 2,
 										"length": 299,
 										"par": 4,
-										"index": 7
+										"index": 4
 									},
 									{
 										"hole": 3,
 										"length": 249,
 										"par": 4,
-										"index": 13
+										"index": 7
 									},
 									{
 										"hole": 4,
 										"length": 386,
 										"par": 4,
-										"index": 15
+										"index": 8
 									},
 									{
 										"hole": 5,
@@ -16566,25 +16570,25 @@
 										"hole": 6,
 										"length": 135,
 										"par": 3,
-										"index": 17
+										"index": 9
 									},
 									{
 										"hole": 7,
 										"length": 298,
 										"par": 4,
-										"index": 9
+										"index": 5
 									},
 									{
 										"hole": 8,
 										"length": 129,
 										"par": 3,
-										"index": 11
+										"index": 6
 									},
 									{
 										"hole": 9,
 										"length": 451,
 										"par": 5,
-										"index": 3
+										"index": 2
 									}
 								]
 							}
@@ -16602,49 +16606,49 @@
 										"hole": 1,
 										"length": 345,
 										"par": 4,
-										"index": 5
+										"index": 3
 									},
 									{
 										"hole": 2,
 										"length": 329,
 										"par": 4,
-										"index": 11
+										"index": 6
 									},
 									{
 										"hole": 3,
 										"length": 287,
 										"par": 4,
-										"index": 13
+										"index": 7
 									},
 									{
 										"hole": 4,
 										"length": 406,
 										"par": 5,
-										"index": 9
+										"index": 5
 									},
 									{
 										"hole": 5,
 										"length": 256,
 										"par": 4,
-										"index": 7
+										"index": 4
 									},
 									{
 										"hole": 6,
 										"length": 155,
 										"par": 3,
-										"index": 17
+										"index": 9
 									},
 									{
 										"hole": 7,
 										"length": 305,
 										"par": 4,
-										"index": 3
+										"index": 2
 									},
 									{
 										"hole": 8,
 										"length": 129,
 										"par": 3,
-										"index": 15
+										"index": 8
 									},
 									{
 										"hole": 9,
@@ -16664,49 +16668,49 @@
 										"hole": 1,
 										"length": 332,
 										"par": 4,
-										"index": 5
+										"index": 3
 									},
 									{
 										"hole": 2,
 										"length": 299,
 										"par": 4,
-										"index": 11
+										"index": 6
 									},
 									{
 										"hole": 3,
 										"length": 249,
 										"par": 4,
-										"index": 13
+										"index": 7
 									},
 									{
 										"hole": 4,
 										"length": 386,
 										"par": 5,
-										"index": 9
+										"index": 5
 									},
 									{
 										"hole": 5,
 										"length": 256,
 										"par": 4,
-										"index": 7
+										"index": 4
 									},
 									{
 										"hole": 6,
 										"length": 135,
 										"par": 3,
-										"index": 17
+										"index": 9
 									},
 									{
 										"hole": 7,
 										"length": 298,
 										"par": 4,
-										"index": 3
+										"index": 2
 									},
 									{
 										"hole": 8,
 										"length": 129,
 										"par": 3,
-										"index": 15
+										"index": 8
 									},
 									{
 										"hole": 9,
@@ -16735,55 +16739,55 @@
 										"hole": 10,
 										"length": 389,
 										"par": 4,
-										"index": 10
+										"index": 5
 									},
 									{
 										"hole": 11,
 										"length": 324,
 										"par": 4,
-										"index": 16
+										"index": 8
 									},
 									{
 										"hole": 12,
 										"length": 181,
 										"par": 3,
-										"index": 14
+										"index": 7
 									},
 									{
 										"hole": 13,
 										"length": 485,
 										"par": 5,
-										"index": 8
+										"index": 4
 									},
 									{
 										"hole": 14,
 										"length": 324,
 										"par": 4,
-										"index": 12
+										"index": 6
 									},
 									{
 										"hole": 15,
 										"length": 419,
 										"par": 5,
-										"index": 6
+										"index": 3
 									},
 									{
 										"hole": 16,
 										"length": 422,
 										"par": 4,
-										"index": 4
+										"index": 2
 									},
 									{
 										"hole": 17,
 										"length": 129,
 										"par": 3,
-										"index": 18
+										"index": 9
 									},
 									{
 										"hole": 18,
 										"length": 367,
 										"par": 4,
-										"index": 2
+										"index": 1
 									}
 								]
 							},
@@ -16797,55 +16801,55 @@
 										"hole": 10,
 										"length": 382,
 										"par": 4,
-										"index": 10
+										"index": 5
 									},
 									{
 										"hole": 11,
 										"length": 298,
 										"par": 4,
-										"index": 16
+										"index": 8
 									},
 									{
 										"hole": 12,
 										"length": 174,
 										"par": 3,
-										"index": 14
+										"index": 7
 									},
 									{
 										"hole": 13,
 										"length": 471,
 										"par": 5,
-										"index": 8
+										"index": 4
 									},
 									{
 										"hole": 14,
 										"length": 316,
 										"par": 4,
-										"index": 12
+										"index": 6
 									},
 									{
 										"hole": 15,
 										"length": 419,
 										"par": 5,
-										"index": 6
+										"index": 3
 									},
 									{
 										"hole": 16,
 										"length": 407,
 										"par": 4,
-										"index": 4
+										"index": 2
 									},
 									{
 										"hole": 17,
 										"length": 129,
 										"par": 3,
-										"index": 18
+										"index": 9
 									},
 									{
 										"hole": 18,
 										"length": 360,
 										"par": 4,
-										"index": 2
+										"index": 1
 									}
 								]
 							},
@@ -16859,55 +16863,55 @@
 										"hole": 10,
 										"length": 359,
 										"par": 4,
-										"index": 10
+										"index": 5
 									},
 									{
 										"hole": 11,
 										"length": 298,
 										"par": 4,
-										"index": 16
+										"index": 8
 									},
 									{
 										"hole": 12,
 										"length": 151,
 										"par": 3,
-										"index": 14
+										"index": 7
 									},
 									{
 										"hole": 13,
 										"length": 438,
 										"par": 5,
-										"index": 8
+										"index": 4
 									},
 									{
 										"hole": 14,
 										"length": 280,
 										"par": 4,
-										"index": 12
+										"index": 6
 									},
 									{
 										"hole": 15,
 										"length": 405,
 										"par": 4,
-										"index": 6
+										"index": 3
 									},
 									{
 										"hole": 16,
 										"length": 375,
 										"par": 4,
-										"index": 4
+										"index": 2
 									},
 									{
 										"hole": 17,
 										"length": 129,
 										"par": 3,
-										"index": 18
+										"index": 9
 									},
 									{
 										"hole": 18,
 										"length": 342,
 										"par": 4,
-										"index": 2
+										"index": 1
 									}
 								]
 							},
@@ -16921,55 +16925,55 @@
 										"hole": 10,
 										"length": 313,
 										"par": 4,
-										"index": 10
+										"index": 5
 									},
 									{
 										"hole": 11,
 										"length": 275,
 										"par": 4,
-										"index": 16
+										"index": 8
 									},
 									{
 										"hole": 12,
 										"length": 144,
 										"par": 3,
-										"index": 14
+										"index": 7
 									},
 									{
 										"hole": 13,
 										"length": 438,
 										"par": 5,
-										"index": 8
+										"index": 4
 									},
 									{
 										"hole": 14,
 										"length": 280,
 										"par": 4,
-										"index": 12
+										"index": 6
 									},
 									{
 										"hole": 15,
 										"length": 364,
 										"par": 4,
-										"index": 6
+										"index": 3
 									},
 									{
 										"hole": 16,
 										"length": 375,
 										"par": 4,
-										"index": 4
+										"index": 2
 									},
 									{
 										"hole": 17,
 										"length": 122,
 										"par": 3,
-										"index": 18
+										"index": 9
 									},
 									{
 										"hole": 18,
 										"length": 313,
 										"par": 4,
-										"index": 2
+										"index": 1
 									}
 								]
 							}
@@ -16987,55 +16991,55 @@
 										"hole": 10,
 										"length": 359,
 										"par": 4,
-										"index": 14
+										"index": 7
 									},
 									{
 										"hole": 11,
 										"length": 298,
 										"par": 4,
-										"index": 12
+										"index": 6
 									},
 									{
 										"hole": 12,
 										"length": 151,
 										"par": 3,
-										"index": 16
+										"index": 8
 									},
 									{
 										"hole": 13,
 										"length": 438,
 										"par": 5,
-										"index": 6
+										"index": 3
 									},
 									{
 										"hole": 14,
 										"length": 280,
 										"par": 4,
-										"index": 10
+										"index": 5
 									},
 									{
 										"hole": 15,
 										"length": 405,
 										"par": 5,
-										"index": 4
+										"index": 2
 									},
 									{
 										"hole": 16,
 										"length": 375,
 										"par": 4,
-										"index": 2
+										"index": 1
 									},
 									{
 										"hole": 17,
 										"length": 129,
 										"par": 3,
-										"index": 18
+										"index": 9
 									},
 									{
 										"hole": 18,
 										"length": 342,
 										"par": 4,
-										"index": 8
+										"index": 4
 									}
 								]
 							},
@@ -17049,55 +17053,55 @@
 										"hole": 10,
 										"length": 313,
 										"par": 4,
-										"index": 14
+										"index": 7
 									},
 									{
 										"hole": 11,
 										"length": 275,
 										"par": 4,
-										"index": 12
+										"index": 6
 									},
 									{
 										"hole": 12,
 										"length": 144,
 										"par": 3,
-										"index": 16
+										"index": 8
 									},
 									{
 										"hole": 13,
 										"length": 438,
 										"par": 5,
-										"index": 6
+										"index": 3
 									},
 									{
 										"hole": 14,
 										"length": 280,
 										"par": 4,
-										"index": 10
+										"index": 5
 									},
 									{
 										"hole": 15,
 										"length": 364,
 										"par": 5,
-										"index": 4
+										"index": 2
 									},
 									{
 										"hole": 16,
 										"length": 375,
 										"par": 4,
-										"index": 2
+										"index": 1
 									},
 									{
 										"hole": 17,
 										"length": 122,
 										"par": 3,
-										"index": 18
+										"index": 9
 									},
 									{
 										"hole": 18,
 										"length": 313,
 										"par": 4,
-										"index": 8
+										"index": 4
 									}
 								]
 							}
@@ -17110,7 +17114,7 @@
 	{
 		"name": "GP Karlsruhe Gut Batzenhof",
 		"shortname": "Batzenhof, GP",
-		"clubnumber": 7809,
+		"clubnumber": "7809",
 		"courses": [
 			{
 				"name": "Classic Standard (1-18)",
