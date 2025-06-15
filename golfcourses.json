@@ -2686,6 +2686,1012 @@
 		]
 	},
 	{
+		"name": "Attighof Golf & Country Club e. V.",
+		"shortname": "Attighof, GCC",
+		"clubnumber": "6627",
+		"courses": [
+			{
+				"name": "Platz 1-18",
+				"gender": [
+					{
+						"tees": [
+							{
+								"color": "weiß",
+								"par": 72,
+								"cr": 72.4,
+								"slope": 139,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 524,
+										"par": 5,
+										"index": 3
+									},
+									{
+										"hole": 2,
+										"length": 302,
+										"par": 4,
+										"index": 15
+									},
+									{
+										"hole": 3,
+										"length": 356,
+										"par": 4,
+										"index": 11
+									},
+									{
+										"hole": 4,
+										"length": 396,
+										"par": 4,
+										"index": 1
+									},
+									{
+										"hole": 5,
+										"length": 360,
+										"par": 4,
+										"index": 9
+									},
+									{
+										"hole": 6,
+										"length": 519,
+										"par": 5,
+										"index": 7
+									},
+									{
+										"hole": 7,
+										"length": 155,
+										"par": 3,
+										"index": 13
+									},
+									{
+										"hole": 8,
+										"length": 385,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 9,
+										"length": 156,
+										"par": 3,
+										"index": 17
+									},
+									{
+										"hole": 10,
+										"length": 463,
+										"par": 5,
+										"index": 10
+									},
+									{
+										"hole": 11,
+										"length": 156,
+										"par": 3,
+										"index": 16
+									},
+									{
+										"hole": 12,
+										"length": 312,
+										"par": 4,
+										"index": 12
+									},
+									{
+										"hole": 13,
+										"length": 509,
+										"par": 5,
+										"index": 4
+									},
+									{
+										"hole": 14,
+										"length": 179,
+										"par": 3,
+										"index": 14
+									},
+									{
+										"hole": 15,
+										"length": 438,
+										"par": 5,
+										"index": 6
+									},
+									{
+										"hole": 16,
+										"length": 361,
+										"par": 4,
+										"index": 8
+									},
+									{
+										"hole": 17,
+										"length": 147,
+										"par": 3,
+										"index": 18
+									},
+									{
+										"hole": 18,
+										"length": 341,
+										"par": 4,
+										"index": 2
+									}
+								]
+							},
+							{
+								"color": "gelb",
+								"par": 72,
+								"cr": 71.2,
+								"slope": 131,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 522,
+										"par": 5,
+										"index": 3
+									},
+									{
+										"hole": 2,
+										"length": 299,
+										"par": 4,
+										"index": 15
+									},
+									{
+										"hole": 3,
+										"length": 353,
+										"par": 4,
+										"index": 11
+									},
+									{
+										"hole": 4,
+										"length": 394,
+										"par": 4,
+										"index": 1
+									},
+									{
+										"hole": 5,
+										"length": 358,
+										"par": 4,
+										"index": 9
+									},
+									{
+										"hole": 6,
+										"length": 516,
+										"par": 5,
+										"index": 7
+									},
+									{
+										"hole": 7,
+										"length": 150,
+										"par": 3,
+										"index": 13
+									},
+									{
+										"hole": 8,
+										"length": 338,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 9,
+										"length": 153,
+										"par": 3,
+										"index": 17
+									},
+									{
+										"hole": 10,
+										"length": 432,
+										"par": 5,
+										"index": 10
+									},
+									{
+										"hole": 11,
+										"length": 145,
+										"par": 3,
+										"index": 16
+									},
+									{
+										"hole": 12,
+										"length": 291,
+										"par": 4,
+										"index": 12
+									},
+									{
+										"hole": 13,
+										"length": 445,
+										"par": 5,
+										"index": 4
+									},
+									{
+										"hole": 14,
+										"length": 177,
+										"par": 3,
+										"index": 14
+									},
+									{
+										"hole": 15,
+										"length": 426,
+										"par": 5,
+										"index": 6
+									},
+									{
+										"hole": 16,
+										"length": 315,
+										"par": 4,
+										"index": 8
+									},
+									{
+										"hole": 17,
+										"length": 135,
+										"par": 3,
+										"index": 18
+									},
+									{
+										"hole": 18,
+										"length": 299,
+										"par": 4,
+										"index": 2
+									}
+								]
+							}
+						]
+					},
+					{
+						"tees": [
+							{
+								"color": "blau",
+								"par": 72,
+								"cr": 74.3,
+								"slope": 133,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 463,
+										"par": 5,
+										"index": 3
+									},
+									{
+										"hole": 2,
+										"length": 267,
+										"par": 4,
+										"index": 15
+									},
+									{
+										"hole": 3,
+										"length": 313,
+										"par": 4,
+										"index": 11
+									},
+									{
+										"hole": 4,
+										"length": 349,
+										"par": 4,
+										"index": 1
+									},
+									{
+										"hole": 5,
+										"length": 317,
+										"par": 4,
+										"index": 9
+									},
+									{
+										"hole": 6,
+										"length": 455,
+										"par": 5,
+										"index": 7
+									},
+									{
+										"hole": 7,
+										"length": 135,
+										"par": 3,
+										"index": 13
+									},
+									{
+										"hole": 8,
+										"length": 332,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 9,
+										"length": 133,
+										"par": 3,
+										"index": 17
+									},
+									{
+										"hole": 10,
+										"length": 404,
+										"par": 5,
+										"index": 10
+									},
+									{
+										"hole": 11,
+										"length": 145,
+										"par": 3,
+										"index": 16
+									},
+									{
+										"hole": 12,
+										"length": 286,
+										"par": 4,
+										"index": 12
+									},
+									{
+										"hole": 13,
+										"length": 445,
+										"par": 5,
+										"index": 4
+									},
+									{
+										"hole": 14,
+										"length": 158,
+										"par": 3,
+										"index": 14
+									},
+									{
+										"hole": 15,
+										"length": 389,
+										"par": 5,
+										"index": 6
+									},
+									{
+										"hole": 16,
+										"length": 315,
+										"par": 4,
+										"index": 8
+									},
+									{
+										"hole": 17,
+										"length": 135,
+										"par": 3,
+										"index": 18
+									},
+									{
+										"hole": 18,
+										"length": 299,
+										"par": 4,
+										"index": 2
+									}
+								]
+							},
+							{
+								"color": "rot",
+								"par": 72,
+								"cr": 73.2,
+								"slope": 129,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 461,
+										"par": 5,
+										"index": 3
+									},
+									{
+										"hole": 2,
+										"length": 264,
+										"par": 4,
+										"index": 15
+									},
+									{
+										"hole": 3,
+										"length": 310,
+										"par": 4,
+										"index": 11
+									},
+									{
+										"hole": 4,
+										"length": 347,
+										"par": 4,
+										"index": 1
+									},
+									{
+										"hole": 5,
+										"length": 314,
+										"par": 4,
+										"index": 9
+									},
+									{
+										"hole": 6,
+										"length": 452,
+										"par": 5,
+										"index": 7
+									},
+									{
+										"hole": 7,
+										"length": 133,
+										"par": 3,
+										"index": 13
+									},
+									{
+										"hole": 8,
+										"length": 280,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 9,
+										"length": 118,
+										"par": 3,
+										"index": 17
+									},
+									{
+										"hole": 10,
+										"length": 402,
+										"par": 5,
+										"index": 10
+									},
+									{
+										"hole": 11,
+										"length": 135,
+										"par": 3,
+										"index": 16
+									},
+									{
+										"hole": 12,
+										"length": 273,
+										"par": 4,
+										"index": 12
+									},
+									{
+										"hole": 13,
+										"length": 412,
+										"par": 5,
+										"index": 4
+									},
+									{
+										"hole": 14,
+										"length": 156,
+										"par": 3,
+										"index": 14
+									},
+									{
+										"hole": 15,
+										"length": 380,
+										"par": 5,
+										"index": 6
+									},
+									{
+										"hole": 16,
+										"length": 277,
+										"par": 4,
+										"index": 8
+									},
+									{
+										"hole": 17,
+										"length": 122,
+										"par": 3,
+										"index": 18
+									},
+									{
+										"hole": 18,
+										"length": 274,
+										"par": 4,
+										"index": 2
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Platz A 1-9",
+				"gender": [
+					{
+						"tees": [
+							{
+								"color": "weiß",
+								"par": 36,
+								"cr": 37.0,
+								"slope": 139,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 524,
+										"par": 5,
+										"index": 2
+									},
+									{
+										"hole": 2,
+										"length": 302,
+										"par": 4,
+										"index": 8
+									},
+									{
+										"hole": 3,
+										"length": 356,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 4,
+										"length": 396,
+										"par": 4,
+										"index": 1
+									},
+									{
+										"hole": 5,
+										"length": 360,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 6,
+										"length": 519,
+										"par": 5,
+										"index": 4
+									},
+									{
+										"hole": 7,
+										"length": 155,
+										"par": 3,
+										"index": 7
+									},
+									{
+										"hole": 8,
+										"length": 385,
+										"par": 4,
+										"index": 3
+									},
+									{
+										"hole": 9,
+										"length": 156,
+										"par": 3,
+										"index": 9
+									}
+								]
+							},
+							{
+								"color": "gelb",
+								"par": 36,
+								"cr": 36.7,
+								"slope": 137,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 522,
+										"par": 5,
+										"index": 2
+									},
+									{
+										"hole": 2,
+										"length": 299,
+										"par": 4,
+										"index": 8
+									},
+									{
+										"hole": 3,
+										"length": 353,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 4,
+										"length": 394,
+										"par": 4,
+										"index": 1
+									},
+									{
+										"hole": 5,
+										"length": 358,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 6,
+										"length": 516,
+										"par": 5,
+										"index": 4
+									},
+									{
+										"hole": 7,
+										"length": 150,
+										"par": 3,
+										"index": 7
+									},
+									{
+										"hole": 8,
+										"length": 338,
+										"par": 4,
+										"index": 3
+									},
+									{
+										"hole": 9,
+										"length": 153,
+										"par": 3,
+										"index": 9
+									}
+								]
+							}
+						]
+					},
+					{
+						"tees": [
+							{
+								"color": "blau",
+								"par": 36,
+								"cr": 37.9,
+								"slope": 139,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 463,
+										"par": 5,
+										"index": 2
+									},
+									{
+										"hole": 2,
+										"length": 267,
+										"par": 4,
+										"index": 8
+									},
+									{
+										"hole": 3,
+										"length": 313,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 4,
+										"length": 349,
+										"par": 4,
+										"index": 1
+									},
+									{
+										"hole": 5,
+										"length": 317,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 6,
+										"length": 455,
+										"par": 5,
+										"index": 4
+									},
+									{
+										"hole": 7,
+										"length": 135,
+										"par": 3,
+										"index": 7
+									},
+									{
+										"hole": 8,
+										"length": 332,
+										"par": 4,
+										"index": 3
+									},
+									{
+										"hole": 9,
+										"length": 133,
+										"par": 3,
+										"index": 9
+									}
+								]
+							},
+							{
+								"color": "rot",
+								"par": 36,
+								"cr": 37.5,
+								"slope": 133,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 461,
+										"par": 5,
+										"index": 2
+									},
+									{
+										"hole": 2,
+										"length": 264,
+										"par": 4,
+										"index": 8
+									},
+									{
+										"hole": 3,
+										"length": 310,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 4,
+										"length": 347,
+										"par": 4,
+										"index": 1
+									},
+									{
+										"hole": 5,
+										"length": 314,
+										"par": 4,
+										"index": 5
+									},
+									{
+										"hole": 6,
+										"length": 452,
+										"par": 5,
+										"index": 4
+									},
+									{
+										"hole": 7,
+										"length": 133,
+										"par": 3,
+										"index": 7
+									},
+									{
+										"hole": 8,
+										"length": 280,
+										"par": 4,
+										"index": 3
+									},
+									{
+										"hole": 9,
+										"length": 118,
+										"par": 3,
+										"index": 9
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Platz B 10-18",
+				"gender": [
+					{
+						"tees": [
+							{
+								"color": "weiß",
+								"par": 36,
+								"cr": 35.4,
+								"slope": 138,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 463,
+										"par": 5,
+										"index": 5
+									},
+									{
+										"hole": 2,
+										"length": 156,
+										"par": 3,
+										"index": 8
+									},
+									{
+										"hole": 3,
+										"length": 312,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 4,
+										"length": 509,
+										"par": 5,
+										"index": 2
+									},
+									{
+										"hole": 5,
+										"length": 179,
+										"par": 3,
+										"index": 7
+									},
+									{
+										"hole": 6,
+										"length": 438,
+										"par": 5,
+										"index": 3
+									},
+									{
+										"hole": 7,
+										"length": 361,
+										"par": 4,
+										"index": 4
+									},
+									{
+										"hole": 8,
+										"length": 147,
+										"par": 3,
+										"index": 9
+									},
+									{
+										"hole": 9,
+										"length": 341,
+										"par": 4,
+										"index": 1
+									}
+								]
+							},
+							{
+								"color": "gelb",
+								"par": 36,
+								"cr": 34.4,
+								"slope": 126,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 432,
+										"par": 5,
+										"index": 5
+									},
+									{
+										"hole": 2,
+										"length": 145,
+										"par": 3,
+										"index": 8
+									},
+									{
+										"hole": 3,
+										"length": 291,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 4,
+										"length": 445,
+										"par": 5,
+										"index": 2
+									},
+									{
+										"hole": 5,
+										"length": 177,
+										"par": 3,
+										"index": 7
+									},
+									{
+										"hole": 6,
+										"length": 426,
+										"par": 5,
+										"index": 3
+									},
+									{
+										"hole": 7,
+										"length": 315,
+										"par": 4,
+										"index": 4
+									},
+									{
+										"hole": 8,
+										"length": 135,
+										"par": 3,
+										"index": 9
+									},
+									{
+										"hole": 9,
+										"length": 299,
+										"par": 4,
+										"index": 1
+									}
+								]
+							}
+						]
+					},
+					{
+						"tees": [
+							{
+								"color": "blau",
+								"par": 36,
+								"cr": 36.5,
+								"slope": 127,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 404,
+										"par": 5,
+										"index": 5
+									},
+									{
+										"hole": 2,
+										"length": 145,
+										"par": 3,
+										"index": 8
+									},
+									{
+										"hole": 3,
+										"length": 286,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 4,
+										"length": 445,
+										"par": 5,
+										"index": 2
+									},
+									{
+										"hole": 5,
+										"length": 158,
+										"par": 3,
+										"index": 7
+									},
+									{
+										"hole": 6,
+										"length": 389,
+										"par": 5,
+										"index": 3
+									},
+									{
+										"hole": 7,
+										"length": 315,
+										"par": 4,
+										"index": 4
+									},
+									{
+										"hole": 8,
+										"length": 135,
+										"par": 3,
+										"index": 9
+									},
+									{
+										"hole": 9,
+										"length": 299,
+										"par": 4,
+										"index": 1
+									}
+								]
+							},
+							{
+								"color": "rot",
+								"par": 36,
+								"cr": 35.8,
+								"slope": 123,
+								"holes": [
+									{
+										"hole": 1,
+										"length": 402,
+										"par": 5,
+										"index": 5
+									},
+									{
+										"hole": 2,
+										"length": 135,
+										"par": 3,
+										"index": 8
+									},
+									{
+										"hole": 3,
+										"length": 273,
+										"par": 4,
+										"index": 6
+									},
+									{
+										"hole": 4,
+										"length": 412,
+										"par": 5,
+										"index": 2
+									},
+									{
+										"hole": 5,
+										"length": 156,
+										"par": 3,
+										"index": 7
+									},
+									{
+										"hole": 6,
+										"length": 380,
+										"par": 5,
+										"index": 3
+									},
+									{
+										"hole": 7,
+										"length": 277,
+										"par": 4,
+										"index": 4
+									},
+									{
+										"hole": 8,
+										"length": 122,
+										"par": 3,
+										"index": 9
+									},
+									{
+										"hole": 9,
+										"length": 274,
+										"par": 4,
+										"index": 1
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
 		"name": "GP Karlsruhe Gut Batzenhof",
 		"shortname": "Batzenhof, GP",
 		"clubnumber": "7809",
